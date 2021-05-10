@@ -1,7 +1,7 @@
 language: node_js
 node_js:
- - "11"
-install:
+ - "stable"
+before_script:
  - npm install -g mocha
-script:
- - test
+script: 
+  - test
