@@ -1,3 +1,3 @@
 module.exports = function hello() {
-    returnd "Hello Travis CI!";
+    return "Hello Travis CI!";
 }
