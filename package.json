@@ -1,9 +1,6 @@
 {
   "name": "travis-ci-exemplo",
   "description": "Exemplo de integração com Travis CI",
-  "scripts": {
-    "test": "mocha"
-  },
   "author": "Matheus Gomes, Laryssa Bezerra, Jessyca Ribeiro",
   "dependencies": {
     "mocha": "^8.4.0"
